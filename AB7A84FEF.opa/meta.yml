@@ -1,0 +1,19 @@
+id: AB7A84FEF
+title: 'Sweet Song of Vajra Immortality: A Prayer for Long Life'
+type: translation
+pechas:
+- I32A9A25D
+- IC4A990A9
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:51:01.709165
+  last_modified_at: 2023-01-04 11:51:01.709174
+  collections:
+  - Dzongsar Khyentse Rinpoche
+  - Works of Tibetan Masters
+alignment_to_base:
+  I32A9A25D/586B: 7E22
+  IC4A990A9/FCD4: 7E22
